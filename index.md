@@ -15,7 +15,7 @@
 ## 5. お問い合わせ
 本ポリシーに関するご質問や、アプリに関する不具合報告・ご要望は、以下のフォームよりお問い合わせください。
 
-*   [お問い合わせフォーム](https://forms.gle/ipdMXXuQpeqnDBgE8)
+*   [お問い合わせフォーム](https://forms.gle/9MQihxdTNYJLGsNh9)
 
 <style>
   .page-header {
